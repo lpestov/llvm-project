@@ -31,6 +31,7 @@ add_llvm_component_library(LLVMTransformUtils
   FlattenCFG.cpp
   FunctionComparator.cpp
   FunctionImportUtils.cpp
+  FunctionInstrumentation.cpp
   GlobalStatus.cpp
   GuardUtils.cpp
   HelloWorld.cpp
